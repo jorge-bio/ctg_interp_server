@@ -1,0 +1,4 @@
+[Project]
+Name=ctg_interp_server
+Manager=KDevCMakeManager
+VersionControl=

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jorge/projects/ctg_interp_server/build",
+  "command": "/usr/bin/cc    -g   -o CMakeFiles/ctg_interp_server.dir/main.c.o   -c /home/jorge/projects/ctg_interp_server/main.c",
+  "file": "/home/jorge/projects/ctg_interp_server/main.c"
+},
+{
+  "directory": "/home/jorge/projects/ctg_interp_server/build",
+  "command": "/usr/bin/cc    -g   -o CMakeFiles/ctg_interp_server.dir/jsmn.c.o   -c /home/jorge/projects/ctg_interp_server/jsmn.c",
+  "file": "/home/jorge/projects/ctg_interp_server/jsmn.c"
+}
+]
